@@ -21,7 +21,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import TheAnarchist
+uni import Ling/TheAnarchist
 ```
 
 
